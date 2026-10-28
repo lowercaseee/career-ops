@@ -51,6 +51,7 @@ const SUITES = {
   "assistant-markdown-lazy": { url: "ASSISTANT_MARKDOWN_LAZY_TEST_URL", fixture: "blank" },
   "assistant-request-feedback": { url: "ASSISTANT_FEEDBACK_TEST_URL", fixture: "blank" },
   "assistant-status-recovery": { url: "ASSISTANT_STATUS_TEST_URL", fixture: "blank" },
+  "dialog-focus": { url: "DIALOG_FOCUS_TEST_URL", fixture: "pipeline-status" },
   "employer-preset": { url: "EXPLORE_EMPLOYER_TEST_URL", fixture: "blank" },
   "inbox-undo": { url: "INBOX_UNDO_TEST_URL", root: "INBOX_UNDO_TEST_ROOT", fixture: "inbox-undo" },
   "loading-transition": { url: "LOADING_TRANSITION_TEST_URL", root: "LOADING_TRANSITION_TEST_ROOT", fixture: "pipeline-status" },
